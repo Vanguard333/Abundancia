@@ -1,0 +1,18 @@
+# Ignorar arquivos de cache do sistema
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Ignorar pastas do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos de cache do npm
+node_modules/
+
+# Ignorar arquivos do sistema de cache do git
+.git/objects/*
+.git/logs/*
+
